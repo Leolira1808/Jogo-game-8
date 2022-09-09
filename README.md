@@ -12,7 +12,7 @@ img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original
  #### Popular quebra-cabeça conhecido como jogo dos 8 (Puzzle 8), no qual devemos ordenar peças numeradas deslizando-as sobre um tabuleiro.
  
  
-![game 8](https://user-images.githubusercontent.com/97995984/189400620-d87f5bdc-dd77-41e9-9a56-dbf0a328983f.png)
+   ![game 8](https://user-images.githubusercontent.com/97995984/189400620-d87f5bdc-dd77-41e9-9a56-dbf0a328983f.png)
 
 
 ![game 8 1](https://user-images.githubusercontent.com/97995984/189400682-06a6fac4-8804-4d90-bc24-eb34e739782d.png)
