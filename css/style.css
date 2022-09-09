@@ -1,0 +1,79 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+body {
+    background-color: #555;
+
+}
+
+header {
+    text-align: center;
+    margin-top: 25px;
+}
+
+.painel {
+    width: 305px;
+    height: 305px;
+    border-radius: 10px;
+}
+
+.modal {
+    position: absolute;
+    transition: all 0.5s;
+}
+
+#startScreen {
+    background: url('../img/start.png');
+    opacity: 1;
+    z-index: 1;
+}
+
+#overScreen {
+    background: url('../img/over.png');
+    opacity: 0;
+    z-index: -1;
+}
+
+#container {
+    position: relative;
+    margin: 50px auto;
+    background-color: #ccc;
+    border: outset;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.979);
+}
+
+.tile {
+    width: 90px;
+    height: 90px;
+    position: absolute;
+    background-color: #fff;
+    transition: left 0.5s, top 0.5s;
+}
+
+.tile:hover {
+    border: inset;
+    border-radius: 10px;
+}
+
+footer {
+    position: relative;
+
+
+}
+
+p.copyright {
+
+    position: absolute;
+    width: 100%;
+    color: #fff;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    font-size: x-small;
+    line-height: 40px;
+    font-size: 0.7em;
+    text-align: center;
+    bottom: 0;
+}
